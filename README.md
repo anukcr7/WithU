@@ -1,6 +1,6 @@
 # WithU
 
-A new Flutter project.
+A messaging application along with image sharing social networking services. Currently working on adding Emergency SOS functionality.
 
 ## Getting Started
 
