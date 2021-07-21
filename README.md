@@ -1,4 +1,4 @@
-# with_u
+# WithU
 
 A new Flutter project.
 
