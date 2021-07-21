@@ -2,6 +2,10 @@
 
 A messaging application along with image sharing social networking services. Currently working on adding Emergency SOS functionality.
 
+Snapshot of the app:
+
+<img src="https://github.com/anukcr7/WithU/blob/main/loginimg.jpeg" width="250" height="400" />  <img src="https://github.com/anukcr7/WithU/blob/main/registerimg.jpeg" width="250" height="400" />
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
