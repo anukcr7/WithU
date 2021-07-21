@@ -1,6 +1,7 @@
 # WithU
 
 A messaging application along with image sharing social networking services. Currently working on adding Emergency SOS functionality.
+
 TechStack: Flutter, FirebaseAuth, Shared Preference, Cloud Firestore.
 
 Snapshot of the app:
