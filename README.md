@@ -4,7 +4,13 @@ A messaging application along with image sharing social networking services. Cur
 
 Snapshot of the app:
 
-<img src="https://github.com/anukcr7/WithU/blob/main/loginimg.jpeg" width="250" height="400" />  <img src="https://github.com/anukcr7/WithU/blob/main/registerimg.jpeg" width="250" height="400" />
+<img src="https://github.com/anukcr7/WithU/blob/main/signin.jpeg" width="225" height="400" />   <img src="https://github.com/anukcr7/WithU/blob/main/register.jpeg" width="225" height="400" />
+
+<img src="https://github.com/anukcr7/WithU/blob/main/feeds.jpeg" width="225" height="400" />   <img src="https://github.com/anukcr7/WithU/blob/main/feeds2.jpeg" width="225" height="400" />   <img src="https://github.com/anukcr7/WithU/blob/main/uploadimg.jpeg" width="225" height="400" />
+
+<img src="https://github.com/anukcr7/WithU/blob/main/msg.jpeg" width="225" height="400" />   <img src="https://github.com/anukcr7/WithU/blob/main/chats.jpeg" width="225" height="400" />   <img src="https://github.com/anukcr7/WithU/blob/main/search.jpeg" width="225" height="400" />
+
+<img src="https://github.com/anukcr7/WithU/blob/main/sos.jpeg" width="225" height="400" />   <img src="https://github.com/anukcr7/WithU/blob/main/sos2.jpeg" width="225" height="400"/>
 
 ## Getting Started
 
