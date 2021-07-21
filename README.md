@@ -1,6 +1,7 @@
 # WithU
 
 A messaging application along with image sharing social networking services. Currently working on adding Emergency SOS functionality.
+TechStack: Flutter, FirebaseAuth, Shared Preference, Cloud Firestore.
 
 Snapshot of the app:
 
@@ -11,6 +12,8 @@ Snapshot of the app:
 <img src="https://github.com/anukcr7/WithU/blob/main/msg.jpeg" width="225" height="400" />   <img src="https://github.com/anukcr7/WithU/blob/main/chats.jpeg" width="225" height="400" />   <img src="https://github.com/anukcr7/WithU/blob/main/search.jpeg" width="225" height="400" />
 
 <img src="https://github.com/anukcr7/WithU/blob/main/sos.jpeg" width="225" height="400" />   <img src="https://github.com/anukcr7/WithU/blob/main/sos2.jpeg" width="225" height="400"/>
+
+For better user experience sign in with google account.
 
 ## Getting Started
 
